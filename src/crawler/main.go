@@ -33,7 +33,7 @@ func main() {
 		if err != nil {
 			panic(err)
 		}
-		//
+		//获取城市列表
 		printCityList(all)
 
 }
